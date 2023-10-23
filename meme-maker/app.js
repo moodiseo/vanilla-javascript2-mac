@@ -14,4 +14,3 @@ ctx.beginPath();
 ctx.fillStyle = "white";
 ctx.arc(265,80,8,Math.PI,2 * Math.PI);
 ctx.arc(235,80,8,Math.PI,2 * Math.PI);
-ctx.fill();   
